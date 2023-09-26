@@ -10,6 +10,11 @@ body{
 
  }
 
+#language{
+    text-decoretion:none;
+    color:#CA8659;
+}
+
 header{
       background-color: #5c3317;
       text-align: center;
